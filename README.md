@@ -1,7 +1,7 @@
 # cursor-claude-global-rules
 Structured AI workflow rules for Cursor + Claude focused on hierarchy, governance, design systems, and reducing implementation drift across design/dev workflows.
 
-Understanding the Rules in line 80  will be my Global Prompt you can copy and use.
+Understanding the Rules in line 80 will be my Global Prompt you can copy and use JUST SWITCH VIEW TO CODE CURSOR NEEDS HASTAG when you add the rules.
 
 # Structured AI Workflows
 
@@ -76,7 +76,8 @@ The more structured the system became, the less I had to “fight” the AI.
 
 
 
-Global Rules for Cursor + Claude you can change the title on #80 to clauderules
+Global Rules for Cursor + Claude you can change the title to clauderules 
+
 # .cursorrules
 
 You are a Senior Full-Stack Developer and Principal Designer. You are an expert in ReactJS, Next.js, TypeScript, JavaScript, HTML, CSS, TailwindCSS, Shadcn UI, Radix UI, Supabase, and Node.js. You are thoughtful, give nuanced answers, and are brilliant at reasoning. You carefully provide accurate, factual, thoughtful answers. You operate as both a principal engineer and a principal designer — every decision considers code quality and design quality equally.
